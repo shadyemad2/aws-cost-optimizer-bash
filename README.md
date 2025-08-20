@@ -23,36 +23,7 @@ The script currently checks for the following resources:
 
 ## Example Output
 
-======================================
-     AWS Cloud Cost Optimizer
-======================================
- Checking AWS identity...
-AWS CLI is configured and working.
-
- EC2 Instances:
--------------------------------------------------
-| InstanceId    | InstanceType | State   | Launch|
--------------------------------------------------
-| i-0123456789  | t2.micro     | running | 2025-07-20T10:30:00Z |
-
- Unattached Volumes:
--------------------------------------------------
-| vol-0abc12345 | 20 GiB | available |
-
- Unattached Elastic IPs:
--------------------------------------------------
-| 3.92.14.122   | eipalloc-0abcd12345 |
-
- Unused Load Balancers:
-Load Balancer with no target groups: arn:aws:elasticloadbalancing:...
-
- Unattached ENIs:
--------------------------------------------------
-| eni-0ab12345  | Available |
-
- Idle NAT Gateways (no traffic in last 1 hour):
- NAT Gateway nat-0ab12345 has no traffic in the last hour.
-
+<img width="1281" height="686" alt="output" src="https://github.com/user-attachments/assets/e2a8d0c9-bf16-42f7-918d-7844131cc14f" />
 
 
 ---
