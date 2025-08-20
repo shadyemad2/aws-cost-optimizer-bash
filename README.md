@@ -67,4 +67,3 @@ Load Balancer with no target groups: arn:aws:elasticloadbalancing:...
 ## 👨‍💻 Author
 - **Shady Emad** – Junior System Administrator  
   Passionate about Linux, AWS, Docker, Kubernetes, and Infrastructure Automation.
----
