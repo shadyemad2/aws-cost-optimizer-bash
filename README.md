@@ -25,9 +25,11 @@ The script currently checks for the following resources:
 
 <img width="1281" height="686" alt="output" src="https://github.com/user-attachments/assets/e2a8d0c9-bf16-42f7-918d-7844131cc14f" />
 
+<img width="1304" height="591" alt="console" src="https://github.com/user-attachments/assets/61eefa15-8dfb-4a5a-bbe7-284663a19eec" />
+
 
 ---
 
 ## 👨‍💻 Author
-- **Shady Emad** – Junior System Administrator  
+- **Shady Emad** –  System Administrator  - DevOps Engineer
   Passionate about Linux, AWS, Docker, Kubernetes, and Infrastructure Automation.
