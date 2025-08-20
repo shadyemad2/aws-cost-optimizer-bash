@@ -62,10 +62,9 @@ Load Balancer with no target groups: arn:aws:elasticloadbalancing:...
  Idle NAT Gateways (no traffic in last 1 hour):
  NAT Gateway nat-0ab12345 has no traffic in the last hour.
 
-
-
 ---
 
 ## 👨‍💻 Author
 - **Shady Emad** – Junior System Administrator  
   Passionate about Linux, AWS, Docker, Kubernetes, and Infrastructure Automation.
+---
