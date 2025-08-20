@@ -28,7 +28,7 @@ Clone the repository:
 git clone https://github.com/yourusername/aws-cost-optimizer-bash.git
 cd aws-cost-optimizer-bash
 
-
+---
 
 ## Example Output
 
