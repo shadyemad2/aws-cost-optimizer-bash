@@ -54,6 +54,7 @@ Load Balancer with no target groups: arn:aws:elasticloadbalancing:...
  NAT Gateway nat-0ab12345 has no traffic in the last hour.
 
 
+
 ---
 
 ## 👨‍💻 Author
